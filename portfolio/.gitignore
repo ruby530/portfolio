@@ -1,2 +1,4 @@
-"node_modules" 
-"dist" 
+node_modules
+portfolio/node_modules
+dist
+portfolio/dist
