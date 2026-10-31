@@ -1,0 +1,27 @@
+{
+  "education": [
+    {
+      "Qualification":"B.E",
+      "CollegeName":"S.G.Balekundri Institute Of Technology",
+      "place":"Belagavi,Karnataka",
+      "Yop":"2026",
+      "Cgpa":"8"
+    },
+    {
+      "Qualification":"PUC",
+      "CollegeName":"RLS PU College",
+      "place":"Belagavi,Karnataka",
+      "Yop":"2022",
+      "Cgpa":"88.66%"
+    },
+    {
+      "Qualification":"SSLC",
+      "CollegeName":"Holy Cross Convent English Medium School",
+      "place":"Beedi,Karnataka",
+      "Yop":"2020",
+      "Cgpa":"88.96%"
+    }
+    
+    
+  ]
+}
